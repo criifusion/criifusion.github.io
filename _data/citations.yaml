@@ -11,7 +11,7 @@
   type: paper
   buttons:
   - type: source
-    text: Code Repo
+    text: Repo
     link: https://github.com/hvak/MIMRF-BFM
   repo: hvak/MIMRF-BFM
   plugin: sources.py
@@ -27,9 +27,42 @@
   type: paper
   buttons:
   - type: source
-    text: Code Repo
+    text: Repo
     link: https://github.com/hvak/Bi-MIChI
   repo: hvak/Bi-MIChI
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ITSC58415.2024.10920115
+  title: 'MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient
+    Pedestrian Detection'
+  authors:
+  - Xiangbo Gao
+  - Asiegbu Miracle Kanu-Asiegbu
+  - Xiaoxiao Du
+  publisher: 2024 IEEE 27th International Conference on Intelligent Transportation
+    Systems (ITSC)
+  date: '2024-09-24'
+  link: https://doi.org/g9vvkk
+  type: paper
+  buttons:
+  - type: source
+    text: Repo
+    link: https://github.com/XiangboGaoBarry/MambaST
+  repo: XiangboGaoBarry/MambaST
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/ICCAS63016.2024.10773333
+  title: Attention Regulation for Efficient Semantic Segmentation on Unstructured
+    Terrain
+  authors:
+  - Xiujin Liu
+  - Feng Xue
+  - Xiaoxiao Du
+  publisher: 2024 24th International Conference on Control, Automation and Systems
+    (ICCAS)
+  date: '2024-10-29'
+  link: https://doi.org/g9vvkm
+  type: paper
   plugin: sources.py
   file: sources.yaml
 - title: 'Temporal CFT: Multi-Temporal Cross-Modality Fusion Transformer for Multispectral
@@ -46,5 +79,20 @@
   - type: link
     text: Poster
     link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS2023_Poster_Srikar.pdf
+  plugin: sources.py
+  file: sources.yaml
+- title: 'MIC-AQT: Improving Domain Adaptive Object Detection of Adversarial Query
+    Transformers with Masked Image Consistency'
+  type: poster
+  date: '2023-10-01'
+  authors:
+  - Peter Stratton
+  - Xiaoxiao Du
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS_Poster_Abstract_2023-1.pdf
+  buttons:
+  - type: link
+    text: Poster
+    link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS2023_Poster_Peter.pdf
   plugin: sources.py
   file: sources.yaml
