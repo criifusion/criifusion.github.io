@@ -3,7 +3,7 @@
 
 # criifusion's Website
 
-An engaging 1-3 sentence description of your lab.
+Sensors are all around us collecting data. Each sensor may provide complementary or reinforced information that supports tasks such as target detection, classification, or scene understanding. This project develops weakly supervised learning methods for multi-source data integration accounting for both data and label uncertainty.
 
 {% include section.html %}
 
