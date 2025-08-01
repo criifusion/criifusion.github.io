@@ -159,6 +159,11 @@ paper:
   text: Paper
   tooltip: Paper
 
+poster:
+  icon: fa-solid fa-scroll
+  text: Poster
+  tooltip: Poster
+
 book:
   icon: fa-solid fa-book
   text: Book

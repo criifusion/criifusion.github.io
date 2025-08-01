@@ -18,3 +18,16 @@
       text: Code Repo
       link: https://github.com/hvak/Bi-MIChI
   repo: hvak/Bi-MIChI
+- title: Temporal CFT: Multi-Temporal Cross-Modality Fusion Transformer for Multispectral Video Object Detection
+  type: poster
+  date: 2023-10-01
+  authors:
+    - Srikar Varaganti
+    - Asiegbu Miracle Kanu-Asiegbu
+    - Xiaoxiao Du
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS_Poster_Abstract_2023__Srikar_-3.pdf
+  buttons:
+    - type: link
+      text: Poster
+      link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS2023_Poster_Srikar.pdf
