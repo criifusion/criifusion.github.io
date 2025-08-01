@@ -1,7 +1,7 @@
 ---
 ---
 
-# NSF CRII: III: Explainable Multi-Source Data Integration with Uncertainty
+# CRII: III: Explainable Multi-Source Data Integration with Uncertainty
 
 Sensors are all around us collecting data. Each sensor may provide complementary or reinforced information that supports tasks such as target detection, classification, or scene understanding. In remote sensing applications, for example, hyperspectral imaging sensors can provide spectral information about materials by using a wide range of wavelengths, while LiDAR (light detection and ranging) measures an object's elevation above the ground. If a road and a building rooftop are built with the same material (e.g., asphalt), hyperspectral information alone may not be sufficient to tell them apart, while integrating height information from LiDAR data makes it easier to distinguish the two. 
 
@@ -13,7 +13,6 @@ This project develops innovative mathematical framework and associated algorithm
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -36,7 +35,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -61,12 +59,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="See News Archive"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -78,6 +75,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="News"
   text=text
 %}
