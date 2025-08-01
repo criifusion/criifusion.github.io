@@ -1,27 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1109/fuzz-ieee60900.2024.10611865
-  title: Bi-Capacity Choquet Integral for Sensor Fusion with Label Uncertainty
-  authors:
-  - Hersh Vakharia
-  - Xiaoxiao Du
-  publisher: 2024 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
-  date: '2024-06-30'
-  link: https://doi.org/g9vvhh
-  orcid: 0009-0009-0015-031X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/igarss52108.2023.10282851
-  title: Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty
-  authors:
-  - Hersh Vakharia
-  - Xiaoxiao Du
-  publisher: IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium
-  date: '2023-07-16'
-  link: https://doi.org/g9vvhg
-  orcid: 0009-0009-0015-031X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1109/IGARSS52108.2023.10282851
   title: Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty
   authors:
