@@ -18,7 +18,7 @@
       text: Code Repo
       link: https://github.com/hvak/Bi-MIChI
   repo: hvak/Bi-MIChI
-- title: Temporal CFT: Multi-Temporal Cross-Modality Fusion Transformer for Multispectral Video Object Detection
+- title: "Temporal CFT: Multi-Temporal Cross-Modality Fusion Transformer for Multispectral Video Object Detection"
   type: poster
   date: 2023-10-01
   authors:
