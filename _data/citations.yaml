@@ -8,11 +8,13 @@
   publisher: IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium
   date: '2023-10-20'
   link: https://doi.org/g9vvhg
-  type: paper
   buttons:
   - type: source
     text: Repo
     link: https://github.com/hvak/MIMRF-BFM
+  - type: link
+    text: Poster
+    link: https://hvak.io/files/igarss_poster_final.pdf
   repo: hvak/MIMRF-BFM
   plugin: sources.py
   file: sources.yaml
@@ -24,7 +26,6 @@
   publisher: 2024 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)
   date: '2024-08-05'
   link: https://doi.org/g9vvhh
-  type: paper
   buttons:
   - type: source
     text: Repo
@@ -43,7 +44,6 @@
     Systems (ITSC)
   date: '2024-09-24'
   link: https://doi.org/g9vvkk
-  type: paper
   buttons:
   - type: source
     text: Repo
@@ -62,12 +62,10 @@
     (ICCAS)
   date: '2024-10-29'
   link: https://doi.org/g9vvkm
-  type: paper
   plugin: sources.py
   file: sources.yaml
 - title: 'Temporal CFT: Multi-Temporal Cross-Modality Fusion Transformer for Multispectral
     Video Object Detection'
-  type: poster
   date: '2023-10-01'
   authors:
   - Srikar Varaganti
@@ -83,7 +81,6 @@
   file: sources.yaml
 - title: 'MIC-AQT: Improving Domain Adaptive Object Detection of Adversarial Query
     Transformers with Masked Image Consistency'
-  type: poster
   date: '2023-10-01'
   authors:
   - Peter Stratton
