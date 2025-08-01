@@ -29,7 +29,10 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["google-scholar", "pubmed", "orcid", "sources"]
+#plugins = ["google-scholar", "pubmed", "orcid", "sources"]
+
+#only take research from sources yaml
+plugins = ["sources"]
 
 # loop through plugins
 for plugin in plugins:
