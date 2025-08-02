@@ -62,7 +62,7 @@ This project develops innovative mathematical framework and associated algorithm
 
 {%
   include button.html
-  link="team"
+  link="news"
   text="See News Archive"
   icon="fa-solid fa-arrow-right"
   flip=true
