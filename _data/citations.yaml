@@ -15,6 +15,9 @@
   - type: link
     text: Poster
     link: https://hvak.io/files/igarss_poster_final.pdf
+  - type: link
+    text: arXiv
+    link: https://arxiv.org/abs/2402.05045
   repo: hvak/MIMRF-BFM
   plugin: sources.py
   file: sources.yaml
@@ -30,6 +33,9 @@
   - type: source
     text: Repo
     link: https://github.com/hvak/Bi-MIChI
+  - type: link
+    text: arXiv
+    link: https://arxiv.org/abs/2409.03212
   repo: hvak/Bi-MIChI
   plugin: sources.py
   file: sources.yaml
@@ -77,6 +83,9 @@
   - type: link
     text: Poster
     link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS2023_Poster_Srikar.pdf
+  - type: link
+    text: arXiv
+    link: https://arxiv.org/abs/2408.01037
   plugin: sources.py
   file: sources.yaml
 - title: 'MIC-AQT: Improving Domain Adaptive Object Detection of Adversarial Query
