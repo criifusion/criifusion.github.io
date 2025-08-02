@@ -9,6 +9,9 @@
     - type: link
       text: Poster
       link: https://hvak.io/files/igarss_poster_final.pdf
+    - type: link
+      text: arXiv
+      link: https://arxiv.org/abs/2402.05045
   repo: hvak/MIMRF-BFM
 - id: doi:10.1109/FUZZ-IEEE60900.2024.10611865
   #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -18,6 +21,9 @@
     - type: source
       text: Repo
       link: https://github.com/hvak/Bi-MIChI
+    - type: link
+      text: arXiv
+      link: https://arxiv.org/abs/2409.03212
   repo: hvak/Bi-MIChI
 - id: doi:10.1109/ITSC58415.2024.10920115
   #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -44,6 +50,9 @@
     - type: link
       text: Poster
       link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS2023_Poster_Srikar.pdf
+    - type: link
+      text: arXiv
+      link: https://arxiv.org/abs/2408.01037
 - title: "MIC-AQT: Improving Domain Adaptive Object Detection of Adversarial Query Transformers with Masked Image Consistency"
   date: 2023-10-01
   authors:
