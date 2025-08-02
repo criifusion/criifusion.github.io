@@ -54,6 +54,9 @@
   - type: source
     text: Repo
     link: https://github.com/XiangboGaoBarry/MambaST
+  - type: link
+    text: arXiv
+    link: https://arxiv.org/abs/2408.01037
   repo: XiangboGaoBarry/MambaST
   plugin: sources.py
   file: sources.yaml
@@ -73,6 +76,7 @@
 - title: 'Temporal CFT: Multi-Temporal Cross-Modality Fusion Transformer for Multispectral
     Video Object Detection'
   date: '2023-10-01'
+  image: images/temporal_cft.png
   authors:
   - Srikar Varaganti
   - Asiegbu Miracle Kanu-Asiegbu
@@ -83,14 +87,12 @@
   - type: link
     text: Poster
     link: https://xiaoxiaodu.net/wp-content/uploads/2024/01/IROS2023_Poster_Srikar.pdf
-  - type: link
-    text: arXiv
-    link: https://arxiv.org/abs/2408.01037
   plugin: sources.py
   file: sources.yaml
 - title: 'MIC-AQT: Improving Domain Adaptive Object Detection of Adversarial Query
     Transformers with Masked Image Consistency'
   date: '2023-10-01'
+  image: images/mic_aqt.png
   authors:
   - Peter Stratton
   - Xiaoxiao Du
