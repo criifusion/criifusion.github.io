@@ -1,7 +1,7 @@
 - id: doi:10.1109/IGARSS52108.2023.10282851
   #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   date: 2023-10-20
-  #image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/mimrf_bfm.png
   buttons:
     - type: source
       text: Repo
@@ -16,7 +16,7 @@
 - id: doi:10.1109/FUZZ-IEEE60900.2024.10611865
   #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   date: 2024-08-05
-  #image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/bi-michi.png
   buttons:
     - type: source
       text: Repo
@@ -28,7 +28,7 @@
 - id: doi:10.1109/ITSC58415.2024.10920115
   #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   date: 2024-09-24
-  #image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/mambast.png
   buttons:
     - type: source
       text: Repo
@@ -40,7 +40,7 @@
 - id: doi:10.23919/ICCAS63016.2024.10773333
   #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   date: 2024-10-29
-  #image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/ar-net.png
 - title: "Temporal CFT: Multi-Temporal Cross-Modality Fusion Transformer for Multispectral Video Object Detection"
   date: 2023-10-01
   image: images/temporal_cft.png

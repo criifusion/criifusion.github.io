@@ -13,7 +13,7 @@ Publications based upon work supported by the National Science Foundation under 
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Attention Regulation for Efficient Semantic Segmentation on Unstructured Terrain" style="rich" %}
 
 {% include section.html %}
 
