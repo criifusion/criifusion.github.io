@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This CRII project investigates weakly supervised machine learning and multi-source data integration. Through this project, several machine learning and deep learning algorithms were developed to learn from and integrate multi-source and multi-modal sensor data. The developed algorithms were capable of learning the relationships and non-linear interactions among multiple sources during data integration, while addressing data and label uncertainties commonly observed in real-world sensor data. 
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -22,6 +21,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## More
+## Software
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
